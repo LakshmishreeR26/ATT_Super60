@@ -10,7 +10,7 @@ public class SelectionSort {
                     minIndex=j;
                 }
             }
-            if(minIndex!=i){
+            if(minIndex!=i){ //Only swap if the min index has changed
                 int temp=arr[i];
                 arr[i]=arr[minIndex];
                 arr[minIndex] = temp;
