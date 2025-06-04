@@ -1,0 +1,6 @@
+We are in BNMIT AIML Department Building
+We are learning File handling in Java
+This is our Seventh Semester in Engineering
+We are learning Core Java
+The year is 2025
+ALl data inside text Files are string by default
